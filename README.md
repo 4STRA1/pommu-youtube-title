@@ -1,2 +1,0 @@
-# pommu-youtube-title
-pommuの投稿画面でyoutubeのリンクが貼られた時に勝手にタイトルまで入力してくれます
